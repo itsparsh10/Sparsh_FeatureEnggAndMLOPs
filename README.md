@@ -26,6 +26,8 @@ This repository focuses on creating robust, scalable, and highly performant mach
 - **Assignment 1:** Custom Imputation (`Assignments/Assignment1_CustomImputer.ipynb`)
 - **Assignment 2:** Encoding & Transformation (`Assignments/Assignment2_Encoding_Transformation.ipynb`)
 - **Assignment 3:** Time Features & Selection (`Assignments/Assignment3_TimeFeatures_Selection.ipynb`)
+- **Assignment 4:** PCA & Principal Components (`Assignments/Assignment4_PCA_Components.ipynb`)
+- **Assignment 5:** Data Leakage Prevention (`Assignments/Assignment5_DataLeakage.ipynb`)
 
 ---
 
